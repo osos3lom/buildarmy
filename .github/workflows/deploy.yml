@@ -42,6 +42,8 @@ jobs:
         env:
           API_TARGET: ${{ secrets.API_TARGET || 'https://api.example.com' }}
           MEDIA_TARGET: ${{ secrets.MEDIA_TARGET || 'https://media.example.com' }}
+          VITE_IMG_BASE: https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/images/
+          VITE_GIF_BASE: https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@7455efae41b330c265e7cd4b78dfa848e7ce5ebd/videos/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
