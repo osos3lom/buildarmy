@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://osaalam.github.io/buildarmy/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
