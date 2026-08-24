@@ -2,184 +2,172 @@
 
 # 🏋️‍♂️ BuildArmy
 
-**A modern, powerful, and privacy-focused fitness tracking & workout management platform.**
+**منصة متقدمة وحديثة لتتبع التمارين الرياضية والتخطيط البدني وتجميع البيانات الرياضية.**
 
+[![رابط التجربة المباشرة](https://img.shields.io/badge/🚀_التجربة_المباشرة-Live_Demo-FF4500?style=for-the-badge&logo=rocket)](https://osos3lom.github.io/buildarmy/)
 [![React](https://img.shields.io/badge/React-19.2+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.1+-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Capacitor](https://img.shields.io/badge/Capacitor-7.6+-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)](https://capacitorjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![الترخيص](https://img.shields.io/badge/الترخيص-MIT-green?style=for-the-badge)](LICENSE)
 
-[**Live Demo**](https://osaalam.github.io/buildarmy/) • [**Report Bug**](https://github.com/osaalam/buildarmy/issues) • [**Request Feature**](https://github.com/osaalam/buildarmy/issues)
+[**🔗 تجربة التطبيق المباشرة (Live Demo)**](https://osos3lom.github.io/buildarmy/) • [**الإبلاغ عن مشكلة (Report Bug)**](https://github.com/osos3lom/buildarmy/issues) • [**طلب ميزة (Request Feature)**](https://github.com/osos3lom/buildarmy/issues)
 
 </div>
 
 ---
 
-## 📖 Overview
+## 📖 نبذة عن المشروع
 
-**BuildArmy** is an all-in-one workout logger, fitness planner, and analytics tracker built with cutting-edge web and mobile technologies. Designed to deliver an intuitive experience across mobile devices, tablets, and desktop browsers, BuildArmy helps athletes track sets, visualize muscle fatigue with interactive 2D anatomical models, analyze training consistency with GitHub-style heatmaps, and tailor routines to their exact needs.
+**BuildArmy** هو تطبيق ويب وتطبيق محمول متكامل ومتقدم لتتبع التمارين الرياضية وإدارة البرامج التدريبية. صُمم التطبيق ليوفر تجربة سلسة وفاخرة على كافة الأجهزة (الهواتف المحمولة، الأجهزة اللوحية، وأجهزة الكمبيوتر)، حيث يساعد الرياضيين على تسجيل مجموعات التمارين، تصوير الإجهاد العضلي عبر مجسم تشريحي 2D تفاعلي، تحليل استمرارية التدريب باستخدام خرائط حرارية سنوية مثل GitHub، وتخصيص الجلسات بدقة متناهية.
 
 ---
 
-## 📸 App Showcase
+## 📸 معرض صور التطبيق (App Screenshots)
 
 <div align="center">
 
-| 🏋️‍♂️ Live Workout Tracker | 📚 1300+ Exercise Library | 📈 Analytics & Heatmap |
+| 🏋️‍♂️ مسجل التمارين المباشر | 📚 مكتبة التمارين (1300+ تمرين) | 📈 الإحصائيات والخريطة الحرارية |
 | :---: | :---: | :---: |
-| <img src="./public/screenshots/Screenshot%202026-08-24%20192145.png" width="260" alt="Active Workout Logger" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192104.png" width="260" alt="Exercise Library" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192129.png" width="260" alt="Analytics and Muscle Balance" /> |
+| <img src="./public/screenshots/Screenshot%202026-08-24%20192145.png" width="260" alt="مسجل التمرين الفعال" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192104.png" width="260" alt="مكتبة التمارين" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192129.png" width="260" alt="توازن العضلات والإحصائيات" /> |
 
-| 🗺️ Routine Muscle Mapping | 📅 Schedule & Calendar | 🎯 1RM Calculator & Guide |
+| 🗺️ خريطة العضلات المستهدفة | 📅 الجدول والتقويم | 🎯 حاسبة 1RM ودليل التمرين |
 | :---: | :---: | :---: |
-| <img src="./public/screenshots/Screenshot%202026-08-24%20192207.png" width="260" alt="Target Muscle Map" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192223.png" width="260" alt="Calendar and Dashboard" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192321.png" width="260" alt="Exercise Details and 1RM" /> |
+| <img src="./public/screenshots/Screenshot%202026-08-24%20192207.png" width="260" alt="توزيع العضلات في الخطة" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192223.png" width="260" alt="التقويم والصفحة الرئيسية" /> | <img src="./public/screenshots/Screenshot%202026-08-24%20192321.png" width="260" alt="تفاصيل التمرين وحاسبة 1RM" /> |
 
 </div>
 
 <div align="center">
 
-| ⚙️ Deep Customization & Theming |
+| ⚙️ التخصيص الكامل والمظهر |
 | :---: |
-| <img src="./public/screenshots/Screenshot%202026-08-24%20192346.png" width="300" alt="Settings & Themes" /> |
+| <img src="./public/screenshots/Screenshot%202026-08-24%20192346.png" width="300" alt="الإعدادات والمظاهر" /> |
 
 </div>
 
 ---
 
-## ✨ Key Features
+## ✨ المميزات الرئيسية
 
-### ⚡ Smart Active Workout Tracking
-- **Real-Time Logging**: Track weights, reps, RPE (Rate of Perceived Exertion), and RIR (Reps in Reserve) seamlessly.
-- **Superset Support**: Chain exercises directly into supersets with one tap.
-- **Warm-Up & Drop Sets**: Mark specific sets as warm-up or working sets with automated rest periods.
-- **Integrated Animated Demos**: High-definition animated motion guides for proper lifting execution and form.
-- **Floating Rest Timer**: Audio-enabled smart countdown timer between sets with background wake-lock support.
+### ⚡ مسجل التمرين الذكي المباشر (Smart Workout Tracker)
+- **تسجيل لحظي**: تتبع الأوزان، التكرارات، ومعدل الجهد المستهدف (RPE / RIR).
+- **مجموعات السوبر سيت (Supersets)**: ربط التمارين المتتالية بسهولة بنقرة واحدة.
+- **مجموعات الإحماء والتسخين**: تمييز مجموعات التسخين عن الجلسات الأساسية.
+- **عروض متحركة توضيحية**: مشاهدة كيفية أداء التمارين بوضوح عبر صور متحركة تفاعلية عالية الجودة.
+- **مؤقت الراحة الذكي**: مؤقت تنازلي منبثق مزود بتنبيهات صوتية وميزة إبقاء الشاشة مفعلة أثناء التمرين.
 
-### 📚 Massive Exercise Library (1,300+ Exercises)
-- Extensive database categorized by muscle groups (Chest, Back, Quads, Shoulders, Arms, Core) and equipment (Barbell, Dumbbell, Cables, Bodyweight, Machines).
-- **Custom Exercise Builder**: Add your own custom movements and routines with specialized target muscle tagging.
-- Instant search and multi-tag filtering.
+### 📚 مكتبة تمارين ضخمة (1300+ تمرين)
+- قاعدة بيانات واسعة مجهزة ومصنفة حسب العضلات (الصدر، الظهر، الكتفين، الذراعين، الساقين، البطن) والأدوات المستخدمة (بار، دمبل، كابل، وزن الجسم، أجهزة).
+- **إنشاء تمارين مخصصة**: إمكانية إضافة تمارينك الخاصة وتحديد العضلات المستهدفة بدقة.
+- بحث سريع وتصفية متعددة الأوسام.
 
-### 🗺️ Interactive Anatomical Body Map
-- **Visual Muscle Balance**: Interactive 2D vector body map showing muscular strain, targeted zones, and recovery states.
-- **Gender Toggle**: Customizable male and female body models.
-- **Recovery & Fatigue Insights**: Visual indicators highlight overworked and ready-to-train muscle groups.
+### 🗺️ خريطة الجسم التشريحية التفاعلية (Interactive Muscle Map)
+- **تحليل توازن العضلات**: خريطة تشريحية ثنائية الأبعاد (2D) تظهر إجهاد العضلات، المناطق المستهدفة، ومستوى الاستشفاء.
+- **تخصيص المجسم**: إمكانية التبديل بين نموذج جسم الذكر والأنثى.
+- **مؤشرات الاستشفاء**: توضيح العضلات الأكثر تدريباً والعضلات الجاهزة للتمرين.
 
-### 📊 In-Depth Analytics & Progression
-- **12-Month Training Heatmap**: GitHub-style visual consistency calendar tracking your training frequency.
-- **1RM (One Rep Max) Estimator**: Dynamic Epley equation calculations directly in exercise modals.
-- **Body Weight Tracker**: Trend logs and chart progression over time.
+### 📊 إحصائيات وتحليلات متقدمة (Advanced Analytics)
+- **خريطة نشاط سنوية (Heatmap)**: عرض استمرارية وتكرار أيام التدريب على مدار 12 شهراً بأسلوب نمط GitHub.
+- **حاسبة التكرار الأقصى المقدر (1RM)**: حساب التكرار الأقصى تلقائياً بناءً على معادلة Epley الشهيرة.
+- **متابعة وزن الجسم**: تسجيل وتتبع تغيرات الوزن مع مرور الوقت.
 
-### 🎨 Highly Customizable & Offline-First
-- **Bilingual Support (AR / EN)**: Full native Right-to-Left (RTL) Arabic and Left-to-Right (LTR) English interfaces.
-- **Themes & Accent Colors**: Dynamic dark/light mode with customizable brand accent highlights.
-- **Privacy First & Passkeys**: Guest mode with local storage persistence and secure Passkey (WebAuthn) account syncing.
-- **Cross-Platform Mobile**: Packaged for iOS and Android via Capacitor with native notifications and haptics.
+### 🎨 تخصيص مرن وعمل بدون إنترنت (Customizable & Offline-First)
+- **دعم كامل للغتين (العربية والإنجليزية)**: واجهة عربية أصيلة مع محاذاة من اليمين لليسار (RTL) وواجهة إنجليزية (LTR).
+- **المظهر وألوان التمييز**: دعم المظهر الداكن (Dark Mode) والفاتح (Light Mode) مع اختيار لون التمييز المفضل.
+- **خصوصية عالية بدون تسجيل ملزم**: وضع الضيف وتخزين البيانات محلياً مع دعم التسجيل الآمن مفاتيح المرور (Passkeys / WebAuthn).
+- **تطبيق محمول متكامل**: دعم نظامي iOS و Android عبر تقنية Capacitor مع إشعارات وتنبيهات لمسية.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ التقنيات المستخدمة (Technology Stack)
 
-| Layer | Technologies |
+| الطبقة | التقنيات المستخدمة |
 | :--- | :--- |
-| **Frontend Framework** | [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
-| **Build & Bundler** | [Vite 8](https://vitejs.dev/) |
-| **Styling & UI** | [Tailwind CSS](https://tailwindcss.com/) + PostCSS + CSS Variables |
-| **State Management** | [Zustand](https://zustand-demo.pmnd.rs/) (Offline-First Storage) |
-| **Routing** | [React Router v7](https://reactrouter.com/) |
-| **Mobile Runtime** | [Capacitor 7](https://capacitorjs.com/) (App, Filesystem, Notifications, Share) |
-| **Unit Testing** | [Vitest](https://vitest.dev/) + [Happy-DOM](https://github.com/capricorn86/happy-dom) |
+| **إطار الواجهة البرمجية** | [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
+| **أداة البناء** | [Vite 8](https://vitejs.dev/) |
+| **التصميم والأنماط** | [Tailwind CSS](https://tailwindcss.com/) + PostCSS |
+| **إدارة الحالة** | [Zustand](https://zustand-demo.pmnd.rs/) (تخزين محلي مباشر) |
+| **التوجيه (Routing)** | [React Router v7](https://reactrouter.com/) |
+| **بيئة الهاتف المحمول** | [Capacitor 7](https://capacitorjs.com/) (التطبيق، نظام الملفات، الإشعارات) |
+| **اختبارات الوحدات** | [Vitest](https://vitest.dev/) + [Happy-DOM](https://github.com/capricorn86/happy-dom) |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 دليل التثبيت والتشغيل المحلي
 
-### Prerequisites
-- **Node.js**: `v18.0.0` or higher
-- **npm**: `v9.0.0` or higher (or `pnpm` / `yarn`)
+### المتطلبات الأساسية
+- **Node.js**: إصدار `v18.0.0` أو أحدث
+- **npm**: إصدار `v9.0.0` أو أحدث
 
-### 1. Clone the Repository
+### 1. استنساخ المستودع (Clone)
 ```bash
-git clone https://github.com/osaalam/buildarmy.git
+git clone https://github.com/osos3lom/buildarmy.git
 cd buildarmy
 ```
 
-### 2. Install Dependencies
+### 2. تثبيت الحزم والاعتماديات
 ```bash
-npm run install
+npm install
 ```
 
-### 3. Environment Configuration
+### 3. إعداد متغيرات البيئة
 ```bash
 cp .env.development .env.local
 ```
-*(Optional) Configure any custom backend endpoints or API keys inside `.env.local`.*
 
-### 4. Run Development Server
+### 4. تشغيل خادم التطوير المحلي
 ```bash
 npm run dev
 ```
-Open your browser at `http://localhost:5173`.
+سيصبح التطبيق متاحاً عبر متصفحك على: `http://localhost:5173`
 
 ---
 
-## 📱 Mobile Development (Capacitor)
+## 📱 تطوير تطبيقات المحمول (Capacitor)
 
-BuildArmy supports native Android and iOS builds using Capacitor.
+يدعم BuildArmy بناء تطبيقات ناتيف لأجهزة Android و iOS:
 
 ```bash
-# 1. Build web assets
+# 1. بناء ملفات الويب
 npm run build
 
-# 2. Sync web assets with native projects
+# 2. مزامنة ملفات الويب مع مشروعي المحمول
 npx cap sync
 
-# 3. Open in Android Studio or Xcode
+# 3. فتح المشروع في Android Studio أو Xcode
 npx cap open android
 npx cap open ios
 ```
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## 🧪 الاختبارات والجودة (Testing)
 
-Run unit and integration test suites powered by Vitest:
+تشغيل مجموعة اختبارات الوحدات والتكامل باستخدام Vitest:
 
 ```bash
-# Run all tests once
+# تشغيل جميع الاختبارات مرة واحدة
 npm run test
 
-# Run tests in watch mode
+# تشغيل الاختبارات بوضع المراقبة المستمرة
 npm run test:watch
 ```
 
 ---
 
-## 📁 Project Structure
+## 📁 بنية المشروع (Project Structure)
 
 ```
 buildarmy/
-├── public/                # Static assets, exercise media & screenshots
-│   └── screenshots/       # High-res application preview screenshots
+├── public/                # الملفات الثابتة والرسوم التوضيحية لجميع التمارين
+│   └── screenshots/       # صور الشاشات المستخدمة في توثيق المشروع
 ├── src/
-│   ├── components/        # Reusable UI components
-│   │   ├── BodyMap.tsx    # Interactive 2D muscle anatomy visualization
-│   │   ├── Heatmap.tsx    # Training activity heatmap grid
-│   │   ├── LineChart.tsx  # Performance progression charts
-│   │   ├── RestTimer.tsx  # Audio-visual rest countdown timer
-│   │   └── TabBar.tsx     # Mobile bottom navigation bar
-│   ├── views/             # Core application views / routes
-│   │   ├── Home.tsx       # Calendar dashboard & active session prompt
-│   │   ├── Library.tsx    # Exercise database & custom creator
-│   │   ├── Workout.tsx    # Active workout logger & superset manager
-│   │   ├── Plan.tsx       # Routine creator & muscle targeting
-│   │   ├── Stats.tsx      # Analytics, muscle balance & recovery
-│   │   ├── Settings.tsx   # Themes, units, language, and passkeys
-│   │   └── Login.tsx      # Authentication & guest profile setup
-│   ├── store/             # Zustand state stores (workouts, routines, settings)
-│   ├── lib/               # Utility functions, i18n, math formulas, 1RM calculators
-│   └── App.tsx            # Main router & theme provider
+│   ├── components/        # المكونات المعاد استخدامها (BodyMap, Heatmap, RestTimer, etc.)
+│   ├── views/             # صفحات التطبيق (Home, Library, Workout, Plan, Stats, Settings)
+│   ├── store/             # إدارة الحالة باستخدام Zustand
+│   ├── lib/               # أدوات مساعدة، حسابات 1RM، الترجمة (i18n)
+│   └── App.tsx            # المكون الرئيسي للتطبيق والتوجيه
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.ts
@@ -187,44 +175,58 @@ buildarmy/
 
 ---
 
-## 🤝 Contributing
+## 🤝 المساهمة (Contributing)
 
-Contributions are welcome! Please follow these steps:
-
-1. **Fork** the repository
-2. **Create a Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** using [Conventional Commits](https://www.conventionalcommits.org/):
+نرحب بجميع المساهمات والمقترحات!
+1. قم بعمل **Fork** للمستودع.
+2. أنشئ فرعاً جديداً للميزة (`git checkout -b feature/AmazingFeature`).
+3. احفظ التغييرات بنفس معايير [Conventional Commits](https://www.conventionalcommits.org/ar/):
    ```bash
-   git commit -m "feat: add rest timer sound customization"
+   git commit -m "feat: add rest timer sound effects"
    ```
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
+4. ارفع التغييرات إلى فرعك (`git push origin feature/AmazingFeature`).
+5. افتح **Pull Request**.
 
 ---
 
-## 📄 License
+## 📄 الترخيص (License)
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details.
+هذا المشروع مرخص بموجب رخصة **MIT License** - انظر ملف [LICENSE](LICENSE) للمزيد من التفاصيل.
+
+---
+
+<br />
+
+---
+
+## 🌐 English Section
+
+### Overview
+**BuildArmy** is a feature-rich, privacy-focused web and mobile workout tracking application built with React 19, TypeScript, Vite, Tailwind CSS, and Capacitor. It offers athletes real-time exercise logging, 1,300+ animated exercise guides, interactive 2D muscle fatigue maps, annual GitHub-style training heatmaps, and customizable routines.
+
+### 🔗 Live Demo
+Access the live application at: [https://osos3lom.github.io/buildarmy/](https://osos3lom.github.io/buildarmy/)
+
+### Key Features
+- **Smart Workout Logger**: Real-time set logging, RPE/RIR tracking, supersets, warm-up sets, and floating rest timer.
+- **Massive Exercise Database**: 1,300+ animated GIF exercises, categorized filtering, and custom exercise creator.
+- **Interactive Body Map**: Visual 2D anatomical muscle strain & recovery balance (male & female models).
+- **Advanced Analytics**: 12-month activity heatmap grid, 1RM Epley estimator, and body weight logs.
+- **Bilingual & Offline-First**: Native RTL Arabic & LTR English, Dark/Light modes, Passkey authentication, offline storage.
+
+### Quick Start (Development)
+```bash
+git clone https://github.com/osos3lom/buildarmy.git
+cd buildarmy
+npm install
+npm run dev
+```
 
 ---
 
 <div align="center">
 
-## 🌐 النسخة العربية (Arabic Summary)
-
-**BuildArmy** هو تطبيق رياضي متكامل لتتبع التمارين وإدارة الخطط التدريبية وتحليل الأداء البدني.
-
-### أبرز الميزات:
-- 🏋️‍♂️ **مكتبة تمارين شاملة**: أكثر من 1300 تمرين مع رسوم توضيحية متحركة ودعم إضافة تمارينك الخاصة.
-- ⚡ **مسجل تمارين تفاعلي**: تسجيل الأوزان والتكرارات ومعدل الجهد (RPE/RIR) مع دعم السوبر سيت ومجموعات الإحماء.
-- 🗺️ **خريطة عضلية تفاعلية**: استعراض توازن العضلات ونقاط الجهد والاستشفاء لجسم الإنسان (ذكر / أنثى).
-- 📊 **إحصائيات متقدمة**: خريطة نشاط سنوية (Heatmap)، حاسبة تكرار أقصى مقدر (1RM)، ومتابعة الوزن.
-- 🎨 **تخصيص كامل**: مظهر ليلي/نهاري، ألوان تمييز ديناميكية، مؤقت راحة ذكي مع تنبيهات صوتية.
-- 🌍 **دعم كامل للغة العربية**: واجهة مصممة أصلاً لدعم اللغة العربية وتناسق كامل (RTL).
-- 📱 **تطبيق ويب ومحمول**: يدعم العمل بدون إنترنت، ويدعم منصات iOS و Android عبر Capacitor.
-
----
-
-**Made with passion for fitness & engineering by Osama Aalam**
+**Developed with ❤️ for fitness enthusiasts & developers by Osama Aalam**
 
 </div>
+
